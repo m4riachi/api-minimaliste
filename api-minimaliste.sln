@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-minimaliste", "api-minimaliste\api-minimaliste.csproj", "{3AD9573D-7A1C-4228-8D80-C5A2EF1D2A1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{EE589D42-399F-45E1-92FF-715C91612230}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{3AD9573D-7A1C-4228-8D80-C5A2EF1D2A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AD9573D-7A1C-4228-8D80-C5A2EF1D2A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AD9573D-7A1C-4228-8D80-C5A2EF1D2A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE589D42-399F-45E1-92FF-715C91612230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE589D42-399F-45E1-92FF-715C91612230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE589D42-399F-45E1-92FF-715C91612230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE589D42-399F-45E1-92FF-715C91612230}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
