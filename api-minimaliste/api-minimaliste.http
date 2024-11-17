@@ -1,0 +1,6 @@
+@api_minimaliste_HostAddress = http://localhost:5153
+
+GET {{api_minimaliste_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
